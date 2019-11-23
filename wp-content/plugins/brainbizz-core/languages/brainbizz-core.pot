@@ -1,0 +1,746 @@
+# Copyright (C) 2019 WebGeniusLab
+# This file is distributed under the same license as the WebGeniusLab package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WebGeniusLab\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../plugins/brainbizz-core/wgl-core.php:51, ../../plugins/brainbizz-core/wgl-core.php:70
+msgid "\"BrainBizz-core\" Plugin requires with only \"BrainBizz\" theme!"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/theme-helper-functions.php:8
+msgid "Extra profile information"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/theme-helper-functions.php:12
+msgid "Instagram"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/theme-helper-functions.php:15
+msgid "Please enter your instagram url."
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/theme-helper-functions.php:19
+msgid "Facebook"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/theme-helper-functions.php:22
+msgid "Please enter your facebook url."
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/theme-helper-functions.php:26
+msgid "Linkedin"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/theme-helper-functions.php:29
+msgid "Please enter your linkedin url."
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/theme-helper-functions.php:33
+msgid "Twitter"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/theme-helper-functions.php:36
+msgid "Please enter your twitter url."
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/meta-box-extensions/select_icon_field.php:56, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:266
+msgid "Icon"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/meta-box-extensions/select_icon_field.php:65
+msgid "Link"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/meta-box-extensions/select_icon_field.php:81
+msgid "Select an icon"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/class-pt-portfolio.php:118
+msgid "Tag"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/class-pt-portfolio.php:119
+msgid "Popular Tags"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:123
+msgid "WGL Select Item"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:152
+msgid "Toggle row"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:154
+msgid "Disabled row"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:159
+msgid "Edit this row"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:247
+msgid "Edit this column"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:249
+msgid "Add Item"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:272
+msgid "Select preset for start editing"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:279
+msgid "Save Changes"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:282
+msgid "WGL Header Options"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:312
+msgid "Are you sure want to delete the element?"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/extensions/custom_preset/custom_preset/field_custom_preset.php:82
+msgid "Notice"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/extensions/custom_preset/custom_preset/field_custom_preset.php:87
+msgid "We will reset all options inside header builder"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/extensions/custom_preset/custom_preset/field_custom_preset.php:90
+msgid "You can modify your header using header builder after choosing header builder template. Click \"Save Preset\", to save the header builder layout"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/extensions/custom_preset/custom_preset/field_custom_preset.php:96
+msgid "Add Preset"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/extensions/custom_preset/custom_preset/field_custom_preset.php:102
+msgid "Save"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/extensions/custom_preset/custom_preset/field_custom_preset.php:142
+msgid "Saved Templates"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/extensions/custom_preset/custom_preset/field_custom_preset.php:226
+msgid "Save Preset"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/extensions/custom_preset/custom_preset/field_custom_preset.php:232
+msgid "Rename"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/extensions/custom_preset/custom_preset/field_custom_preset.php:235
+msgid "Delete Preset"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/extensions/custom_preset/custom_preset/field_custom_preset.php:245
+msgid "Reset"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/extensions/custom_preset/custom_preset/field_custom_preset.php:291
+msgid "Delete Preset?"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/extensions/custom_preset/custom_preset/field_custom_preset.php:292
+msgid "Reset to default?"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/extensions/custom_preset/custom_preset/field_custom_preset.php:293
+msgid "Sorry this name is already exists"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/extensions/custom_preset/custom_preset/field_custom_preset.php:294
+msgid "Empty name"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:13, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:19
+msgid "Portfolio List"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:16
+msgid "WGL Modules"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:23
+msgid "Layout"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:28
+msgid "Grid"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:31, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:360, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:376, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:388, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:395, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:406, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:418, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:446, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:458, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:471, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:486, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:494, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:510, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:517, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:529, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:541, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:554, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:566, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:578, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:590, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:602, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:614
+msgid "Carousel"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:34
+msgid "Masonry"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:37
+msgid "Masonry 2"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:40
+msgid "Masonry 3"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:43
+msgid "Masonry 4"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:49
+msgid "Column"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:53, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:186
+msgid "1"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:54, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:187
+msgid "2"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:55, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:188
+msgid "3"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:56, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:189
+msgid "4"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:57, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:190
+msgid "5"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:67
+msgid "Show Filter"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:69, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:113, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:132, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:159
+msgid "Yes"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:80
+msgid "Filter Style"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:84, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:216, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:237
+msgid "Default"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:85
+msgid "With Background"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:95
+msgid "Filter Align"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:98, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:145, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:252
+msgid "Left"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:99, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:146, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:254
+msgid "Right"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:100, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:144, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:253
+msgid "Center"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:111
+msgid "Crop Images"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:119
+msgid "Pagination"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:124
+msgid "Static"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:125
+msgid "Ajax load"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:130
+msgid "Show Pagination"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:141
+msgid "Navigation's Alignment"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:148
+msgid "Select Navigation's Alignment."
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:157
+msgid "Show Load More Button"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:168
+msgid "Items on load"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:172
+msgid "Items load by load more button."
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:180
+msgid "Grid Gap"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:185
+msgid "0"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:191
+msgid "10"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:192
+msgid "15"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:193
+msgid "20"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:194
+msgid "25"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:195
+msgid "30"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:196
+msgid "35"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:203
+msgid "Extra Class"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:205
+msgid "If you wish to style particular content element differently, then use this field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:209
+msgid "Click Item"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:212, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:230, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:240, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:256, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:268, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:275, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:283, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:290, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:297, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:305, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:312, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:319, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:329
+msgid "Content"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:214
+msgid "Single"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:215
+msgid "Popup"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:222
+msgid "Show Info Position"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:226
+msgid "Inside Image"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:227
+msgid "Under Image"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:234
+msgid "Inside Image Animation"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:238
+msgid "Always Show Info"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:248
+msgid "Horizontal Align"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:264
+msgid "Content Elements"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:272
+msgid "Show Title?"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:280
+msgid "Show Content?"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:287
+msgid "Show author?"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:294
+msgid "Show categories?"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:302
+msgid "Show date?"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:309
+msgid "Show Likes?"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:316
+msgid "Show Comments?"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:324
+msgid "Content Letter Count"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:327
+msgid "Enter content letter count."
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:334
+msgid "Custom font family for Portfolio Headings"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:336, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:352, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:628, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:644, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:651, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:665, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:680, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:695, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:710, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:725, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:740, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:748, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:750, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:762, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:775, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:788, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:801
+msgid "Font"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:344, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:636
+msgid "Select font family."
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:345, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:637
+msgid "Select font styling."
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:358
+msgid "Carousel Options"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:369
+msgid "Autoplay"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:380
+msgid "Autoplay Speed"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:392
+msgid "Multiple Items"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:404
+msgid "Pagination Controls"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:415
+msgid "Add Pagination control"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:427
+msgid "Pagination Type"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:432
+msgid "Circle"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:435
+msgid "Empty Circle"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:438
+msgid "Square"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:441
+msgid "Line"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:444
+msgid "Line - Circle"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:455
+msgid "Pagination Top Offset"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:460
+msgid "Enter pagination top offset in pixels."
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:468
+msgid "Custom Pagination Color"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:479
+msgid "Pagination Color"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:492
+msgid "Responsive"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:503
+msgid "Customize Responsive"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:515
+msgid "Medium Desktop"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:526, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:563, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:599
+msgid "Screen resolution"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:538, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:575, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:611
+msgid "Slides to show"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:552
+msgid "Tablets"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:588
+msgid "Mobile Phones"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:626
+msgid "Custom font family for Portfolio Content"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:648
+msgid "Custom styles for Portfolio"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:650
+msgid "Custom portfolio font size and font color."
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:657
+msgid "Custom Main Color"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:660
+msgid "Select custom main color."
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:672
+msgid "Custom Filter Color"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:675
+msgid "Select custom filter color."
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:687
+msgid "Custom Headings Color"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:690
+msgid "Select custom headings color."
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:702
+msgid "Custom Content Color"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:705
+msgid "Select custom content color."
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:717
+msgid "Heading Font Size"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:720
+msgid "Enter heading font-size in pixels."
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:732
+msgid "Content Font Size"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:735
+msgid "Enter content font-size in pixels."
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:746
+msgid "Overlay settings"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:754
+msgid "Background Customize Colors"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:757
+msgid "None"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:758
+msgid "Color"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:759
+msgid "Gradient"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:767, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:958
+msgid "Background Color"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:770
+msgid "Select background color"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:781
+msgid "Background Start Color"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:794
+msgid "Background End Color"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:806, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:809, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:823, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:834, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:844, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:854, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:865, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:875, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:882, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:893, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:908, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:916, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:936, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:951, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:960, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:980, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:995, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:1003, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:1023, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:1034
+msgid "First Item"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:817
+msgid "Add Custom First Item"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:828
+msgid "Title"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:838
+msgid "Subtitle"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:848
+msgid "Background Title"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:859
+msgid "Content."
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:869
+msgid "Add Button"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:880
+msgid "Button Text"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:891
+msgid "Button Link"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:898
+msgid "Add link to button."
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:902
+msgid "Custom Button Colors"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:914, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:927
+msgid "Text Color"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:930
+msgid "Select custom text color for button."
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:943
+msgid "Hover Text Color"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:946
+msgid "Select custom text color for hover button."
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:971
+msgid "Background"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:974
+msgid "Select custom background for button."
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:987
+msgid "Hover Background"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:990
+msgid "Select custom background for hover button."
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:1001, ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:1014
+msgid "Border Color"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:1017
+msgid "Select custom border color for button."
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:1030
+msgid "Hover Border Color"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/options.php:1033
+msgid "Select custom border color for hover button."
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/render.php:536
+msgid "comment"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/render.php:536
+msgid "comments"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/render.php:799
+msgid "Share:"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/render.php:953
+msgid "Tags: "
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/render.php:997
+msgid "All Works"
+msgstr ""
+
+#: ../../plugins/brainbizz-core/includes/post-types/portfolio/shortcodes/render.php:1010
+msgid "Load More"
+msgstr ""
