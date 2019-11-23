@@ -1,0 +1,925 @@
+/* Custom CSS */
+body {
+	font-size: $content_font_size;
+	line-height: $content_line_height;
+	font-weight: $content_font_weight;
+	color: $content_color;
+}
+
+body,
+.author-info_name,
+.brainbizz_module_message_box .message_content .message_title,
+.brainbizz_module_videobox .title,
+.vc_row .vc_toggle .vc_toggle_title h4,
+.single_team_page .team-info_wrapper .team-info_item span,
+.wpb-js-composer .vc_row .vc_tta.vc_general .vc_tta-panel-title > a span,
+.wpb-js-composer .wgl-container .vc_row .vc_pie_chart .wpb_pie_chart_heading,
+.woocommerce div.product form.cart div.quantity label.label-qty,
+.brainbizz_module_time_line_vertical .time_line-title{
+	font-family: $content_font_family;
+}
+
+h1,h2,h3,h4,h5,h6,
+h1 span, h2 span, h3 span, h4 span, h5 span, h6 span,
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a,
+.blog-post_cats,.cats_post,
+.column1 .item_title a,
+.brainbizz_twitter .twitt_title,
+.tagcloud-wrapper .title_tags,
+.strip_template .strip-item a span,
+.single_team_page .team-single_speaches-info .speech-info_desc span,
+.shortcode_tab_item_title,
+.index_number,
+.primary-nav.footer-menu .menu-item a{
+	font-family: $header_font_family;
+	font-weight: $header_font_weight;
+}
+
+.brainbizz_module_carousel .slick-dots li button,
+.brainbizz_module_carousel.pagination_circle_border .slick-dots li.slick-active button,
+.brainbizz_module_carousel.pagination_line .slick-dots li button:before,
+.brainbizz_module_infobox.infobox_alignment_left.title_divider .infobox_title:before,
+.brainbizz_module_infobox.infobox_alignment_right.title_divider .infobox_title:before{
+	background-color: $header_font_color;
+} 
+
+blockquote,
+#main ol > li:before, 
+.author-info_content .author-info_name,
+.blog-post.format-quote .blog-post_quote-author,
+.blog-post_link>.link_post,
+.blog-post_quote-text,
+.blog-post_views-wrap .counts,
+.blog-post_meta-date .date_post span,
+.brainbizz_module_counter .counter_value_wrap,
+.brainbizz_module_counter .counter_value_hide,
+.brainbizz_module_double_headings,
+.brainbizz_module_infobox .infobox_icon_container .infobox_icon_number,
+.brainbizz_module_pricing_plan .pricing_cur,
+.brainbizz_module_pricing_plan .pricing_price,
+.countdown-section .countdown-amount,
+.custom-header-font,
+.dropcap,
+.page-header .page-header_title,
+.isotope-filter a .number_filter,
+.mashsb-count .counts,
+.mashsb-box .mashsb-buttons a .text,
+.prev-link,
+.next-link,
+.comments-title .number-comments,
+.vc_row .vc_tta.vc_general.vc_tta-style-accordion_bordered .vc_tta-panel-title>a span,
+.wgl_timetabs .timetabs_headings .wgl_tab .tab_title,
+.widget.brainbizz_widget.brainbizz_banner-widget .banner-widget_text,
+.widget.brainbizz_widget.brainbizz_banner-widget .banner-widget_text_bg,
+.woocommerce div.product form.cart div.quantity .quantity-wrapper .qty,
+.woocommerce .cart-collaterals .cart_totals table th{
+	font-family: $header_font_family;
+}
+
+.banner_404,
+.wgl_portfolio_single-item .tagcloud .tagcloud_desc,
+.wgl_timetabs .timetabs_data .timetabs_item .item_time,
+.wgl_timetabs .timetabs_data .timetabs_item .content-wrapper .item_title,
+.wpb-js-composer .wgl-container .vc_row .vc_pie_chart .vc_pie_chart_value{
+	font-family: $header_font_family;
+	color: $header_font_color;
+}
+
+.blog-post_cats span a:hover, 
+.cats_post span a:hover, 
+.cats_post a:hover{
+	background-color: $header_font_color !important;	
+}
+
+.woocommerce #respond input#submit.disabled,
+.woocommerce #respond input#submit:disabled,
+.woocommerce #respond input#submit:disabled[disabled],
+.woocommerce a.button.disabled,
+.woocommerce a.button:disabled,
+.woocommerce a.button:disabled[disabled],
+.woocommerce button.button.disabled,
+.woocommerce button.button:disabled,
+.woocommerce button.button:disabled[disabled],
+.woocommerce input.button.disabled,
+.woocommerce input.button:disabled,
+.woocommerce input.button:disabled[disabled]{
+	color: $header_font_color !important;
+}
+
+#comments .comment-reply-link:after,
+#comments .comment-reply-link:hover,
+#main ul li:before,
+a, button,
+a:hover .wgl-icon,
+button:focus, button:active,
+body ol > li:before,
+body .widget_archive ul li .post_count,
+body .widget_categories ul li .post_count, 
+body .widget_nav_menu .current-menu-ancestor > a,
+body .widget_nav_menu .current-menu-item > a,
+body .widget_recent_entries  ul li .post-date,
+body .widget_rss ul li .rss-date,
+h3#reply-title a:hover,
+input[type='submit']:focus, input[type='submit']:active,
+input[type="submit"]:hover,
+ul.wgl-products .price,
+ul.wgl-products .woocommerce-loop-product__title a:hover,
+.author-info_social-wrapper,
+.button-read-more,
+.button-read-more:after,
+.blog-post_title i,
+.blog-post_link>.link_post:hover,
+.blog-post.format-standard.link .blog-post_title:before,
+.blog-post_cats span,
+.blog-post_title a:hover,
+.share_link span.fa:hover, 
+.share_post span.fa:hover,
+.blog-post_meta-categories a:hover, 
+.blog-posts .meta-wrapper a:hover,
+.calendar_wrap thead,
+.copyright a:hover,
+.comment_author_says a:hover,
+.comment-reply-link:hover,
+.comments-title .number-comments,
+.author-info_social-wrapper,
+.button-read-more,
+.button-read-more:hover:after,
+.blog-post_title i,
+.blog-post_link>.link_post:hover,
+.blog-post.format-standard.link .blog-post_title:before,
+.blog-post_cats span,
+.blog-post_title a:hover,
+.blog-posts .meta-wrapper a:hover,
+.blog-post_wrapper .share_post-container > a, 
+.brainbizz_404_button.brainbizz_module_button a:hover,
+.brainbizz_banner-widget .banner-widget_button:hover,
+.brainbizz_submit_wrapper:hover > i,
+.brainbizz_banner-widget .banner-widget_button:hover,
+.brainbizz_custom_button i,
+.brainbizz_custom_button i,
+.brainbizz_custom_text a,
+.brainbizz_custom_text a,
+.brainbizz_module_button a:hover,
+.brainbizz_module_carousel .slick-prev:hover:after,
+.brainbizz_module_carousel .slick-next:hover:after,
+.brainbizz_module_counter .counter_icon,
+.brainbizz_module_counter .counter_value_wrap .counter_value_suffix,
+.brainbizz_module_counter .counter_value_wrap,
+.brainbizz_module_counter .counter_icon,
+.brainbizz_module_demo_item .di_button a:hover,
+.brainbizz_module_demo_item .di_title-wrap .di_subtitle,
+.brainbizz_module_demo_item .di_title_wrap a:hover .di_title,
+.brainbizz_module_double_headings .heading_subtitle,
+.brainbizz_module_double_headings .heading_subtitle,
+.brainbizz_module_demo_item .di_title-wrap .di_subtitle,
+.brainbizz_module_demo_item .di_title_wrap a:hover .di_title,
+.brainbizz_module_social .soc_icon:hover,
+.brainbizz_module_testimonials .testimonials_quote:before,
+.brainbizz_module_testimonials.type_author_top .testimonials_content_wrap:before,
+.brainbizz_module_infobox .infobox_icon,
+.brainbizz_module_pricing_plan .pricing_price_wrap,
+.brainbizz_module_testimonials .testimonials_quote:before,
+.brainbizz_submit_wrapper:hover > i,
+.brainbizz_twitter a,
+.calendar_wrap thead,
+.copyright a:hover,
+.comment_author_says a:hover,
+.comment-reply-link:hover,
+.comments-title .number-comments,
+.footer ul li:before,
+.footer ul li:before,
+.footer_top-area a:hover,
+.footer_top-area a:hover,
+.footer_top-area .widget.widget_archive ul li > a:hover,
+.footer_top-area .widget.widget_archive ul li > a:hover,
+.footer_top-area .widget.widget_categories ul li > a:hover,
+.footer_top-area .widget.widget_categories ul li > a:hover,
+.footer_top-area .widget.widget_pages ul li > a:hover,
+.footer_top-area .widget.widget_pages ul li > a:hover,
+.footer_top-area .widget.widget_meta ul li > a:hover,
+.footer_top-area .widget.widget_meta ul li > a:hover,
+.footer_top-area .widget.widget_recent_comments ul li > a:hover,
+.footer_top-area .widget.widget_recent_comments ul li > a:hover,
+.footer_top-area .widget.widget_recent_entries ul li > a:hover,
+.footer_top-area .widget.widget_recent_entries ul li > a:hover,
+.footer_top-area .widget.widget_nav_menu ul li > a:hover,
+.footer_top-area .widget.widget_nav_menu ul li > a:hover,
+.footer_top-area .widget.widget_wgl_posts .recent-posts-widget li > .recent-posts-content .post_title a:hover,
+.footer_top-area .widget.widget_wgl_posts .recent-posts-widget li > .recent-posts-content .post_title a:hover,
+.header_search .header_search-button > i:hover,
+.header_search-field .search-form:after,
+.next-link_wrapper .image_next.no_image:before,
+.next-link_wrapper .image_next:after,
+.single_meta .share_post-container > a,
+.prev-link_wrapper .image_prev:after,
+.prev-link_wrapper .image_prev.no_image:before,
+.single_team_page .team-info_wrapper .team-department span,
+.single_team_page .team-single_speaches-info .speech-info_desc span,
+.header_search .header_search-button > i:hover,
+.isotope-filter.filter_with_bg a:hover,
+.isotope-filter.filter_with_bg a.active,
+.load_more_item:hover,
+.load_more_works:hover,
+.mc_form_inside #mc_signup_submit:hover,
+.meta-wrapper a:hover,
+.product-categories .cat-item .post_count,
+.product_list_widget .woocommerce-Price-amount,
+.product_list_widget .product-title:hover,
+.product_list_widget li:hover .product-title,
+.product-categories a:hover,
+.product-categories .current-cat a,
+.product_meta > span a:hover,
+.primary-nav ul li ul .menu-item.current-menu-item > a,
+.primary-nav ul ul li.menu-item.current-menu-ancestor > a, 
+.primary-nav ul ul li.menu-item.current-menu-item > a,
+.primary-nav ul li ul .menu-item:hover > a,
+.primary-nav ul li ul .menu-item.back:hover > a,
+.primary-nav ul li ul .menu-item.back:hover:before,
+.recent-posts-widget .meta-wrapper a,
+.single_team_page .team-info_wrapper .team-info_item a:hover,
+.single-member-page .member-icon:hover,
+.single-member-page .team-link:hover,
+.single_team_page .team-single_speaches-info .speech-info_day,
+.team-icons .member-icon:hover,
+.under_image .wgl_portfolio_item-meta .post_cats,
+.vc_row .vc_toggle.vc_toggle_active .vc_toggle_icon,
+.vc_row .vc_toggle.vc_toggle_active .vc_toggle_title i,
+.vc_wp_custommenu .menu .menu-item.current-menu-ancestor > a,
+.vc_wp_custommenu .menu .menu-item.current-menu-item > a,
+.wgl_module_team .team-department, 
+.wgl-theme-header .woo_mini_cart .woocommerce-mini-cart__buttons a.button.wc-forward:not(.checkout):hover,
+.wgl-theme-header .woo_mini_cart .woocommerce-mini-cart__total span,
+.wgl_timetabs .timetabs_headings .wgl_tab.active .tab_subtitle,
+.wgl_timetabs .timetabs_headings .wgl_tab:hover .tab_subtitle,
+.wgl_portfolio_category-wrapper a:hover,
+.wgl-theme-header .wrapper .brainbizz_module_button a:hover,
+.wgl-theme-header .mini-cart .woocommerce-mini-cart.cart_list.product_list_widget li a:hover,
+.wgl_module_team .team-item_content .team-icon:hover,
+.wgl_module_team .team-item_info .team-item_titles .team-title:hover,
+.wgl-icon:hover,
+.wgl-theme-color,
+.wpb-js-composer .wgl-container .vc_row .vc_general.vc_tta.vc_tta-tabs .vc_tta-tabs-container .vc_tta-tab:hover > a,
+.wpb-js-composer .wgl-container .vc_row .vc_general.vc_tta.vc_tta-tabs .vc_tta-tabs-container .vc_tta-tab.vc_active > a,
+.wpb-js-composer .wgl-container .vc_row .vc_general.vc_tta.vc_tta-accordion .vc_tta-panels-container .vc_tta-panel.vc_active .vc_tta-panel-heading .vc_tta-panel-title,
+.wpb-js-composer .wgl-container .vc_row .vc_general.vc_tta.vc_tta-accordion .vc_tta-panels-container .vc_tta-panel .vc_tta-panel-heading .vc_tta-panel-title:hover,
+.wpb-js-composer .wgl-container .vc_row .vc_general.vc_tta.vc_tta-tabs .vc_tta-panels-container .vc_tta-panels .vc_tta-panel.vc_active .vc_tta-panel-heading .vc_tta-panel-title a,
+.wpb-js-composer .wgl-container .vc_row .vc_toggle .vc_toggle_title:hover,
+.wpb-js-composer .wgl-container .vc_row .vc_toggle .vc_toggle_title:hover h4,
+.wpb-js-composer .wgl-container .vc_row .vc_toggle.vc_toggle_active .vc_toggle_title,
+.wpb-js-composer .wgl-container .vc_row .vc_toggle.vc_toggle_active .vc_toggle_title h4,
+.wpb-js-composer .vc_row .vc_tta.vc_general .vc_active .vc_tta-panel-title > a:before,
+.widget.widget_archive ul li a:hover,
+.widget.widget_categories ul li a:hover,
+.widget.widget_recent_comments ul li a,
+.widget.widget_recent_entries ul li:before,
+.widget.widget_pages ul li a:hover,
+.widget.widget_meta ul li a:hover,
+.widget.brainbizz_widget.brainbizz_banner-widget .banner-widget_button:hover,
+.widget.widget_recent_comments ul li a:hover,
+.widget.widget_recent_entries ul li a:hover,
+.widget.widget_nav_menu ul li a:hover,
+.widget.widget_wgl_posts .recent-posts-widget li > .recent-posts-content .post_title a:hover,
+.woocommerce #respond input#submit:hover,
+.woocommerce div.product form.cart .button:hover:before,
+.woocommerce div.product form.cart .reset_variations:before,
+.woocommerce div.product p.price, .woocommerce div.product span.price,
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active,
+.woocommerce form .form-row .required,
+.woocommerce table.shop_table .woocommerce-Price-amount.amount,
+.woocommerce table.shop_table .order-total .woocommerce-Price-amount.amount,
+.woocommerce table.shop_table td.product-name a:hover,
+.woocommerce table.shop_table.cart input.button:hover,
+.woocommerce p.stars a,
+.woocommerce ul.cart_list li a:hover, .woocommerce ul.product_list_widget li a:hover,
+.woocommerce .products ul.wgl-products .woocommerce-loop-product__title a:hover,
+.woocommerce .summary .product_meta > span a:hover,
+.woocommerce .widget_price_filter .price_slider_amount span,
+.woocommerce .widget_price_filter .price_slider_amount .button:hover,
+.woocommerce .widget_shopping_cart .buttons a:hover, 
+.woocommerce .widget_shopping_cart .buttons a.checkout:hover, 
+.woocommerce .widget_shopping_cart .total, 
+.woocommerce.widget_shopping_cart .buttons a:hover,
+.woocommerce.widget_shopping_cart .buttons a.checkout:hover,
+.woocommerce.widget_shopping_cart .total,
+.woocommerce-cart .wc-proceed-to-checkout a.checkout-button:hover,
+.woocommerce-review-link:hover,
+.wpml-ls a:hover,
+.wpml-ls-legacy-dropdown .wpml-ls-current-language:hover > a,
+.wpml-ls-legacy-dropdown .wpml-ls-current-language a:hover,
+ul.wp-block-archives.wp-block-archives-list li a:hover,
+ul.wp-block-categories.wp-block-categories-list li .post_count,
+ul.wp-block-categories.wp-block-categories-list li a:hover,
+ul.wp-block-latest-posts li a:hover{
+	color: $theme_color;
+}
+
+ul.wgl-products li a.add_to_cart_button, 
+ul.wgl-products li a.button,
+ul.wgl-products li .added_to_cart.wc-forward,
+.brainbizz_module_button a,
+.woocommerce #respond input#submit.alt, 
+.woocommerce #respond input#submit, 
+.woocommerce #payment #place_order, 
+.woocommerce a.button.alt, 
+.woocommerce a.button, .woocommerce button.button, 
+.woocommerce button.button.alt:hover,
+.woocommerce div.product form.cart .button:before,
+.woocommerce div.product form.cart .button,
+.woocommerce input.button,
+.woocommerce input.button.alt,
+.woocommerce .cart input.button,
+.woocommerce .cart .button, 
+.woocommerce .widget_shopping_cart .buttons a, 
+.woocommerce-message a.button,
+.woocommerce-page #payment #place_order,
+.woocommerce-cart .wc-proceed-to-checkout a.checkout-button:hover,
+.woocommerce.widget_shopping_cart .buttons a,
+.wgl-theme-header .woo_mini_cart .woocommerce-mini-cart__buttons a.button.wc-forward:not(.checkout){
+	border-color: $theme_color;
+	background: $theme_color;
+}
+
+#main ul li:before,
+blockquote:before,
+.blog-post_meta-categories .lavalamp-object,
+.primary-nav ul li ul li:hover > a > span:before,
+.wpml-ls-legacy-dropdown .wpml-ls-sub-menu .wpml-ls-item a span:before,
+.primary-nav ul li ul li > a > span:before,
+.next-link_wrapper .image_next:after,
+.prev-link_wrapper .image_prev:after,
+.single_team_page .team-title:before,
+.isotope-filter.filter_def a .number_filter,
+.isotope-filter a:before,
+.wgl-container ul.brainbizz_plus li:after,
+.wgl-container ul.brainbizz_plus li:before,
+.wgl-container ul.brainbizz_dash li:before,
+.wgl_module_team .team-item_excerpt:before,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-range,
+.wgl-mailchimp-2 #mc_embed_signup .button-submit input:hover,
+.footer .mc4wp-form-fields input[type="submit"]:hover,
+ul.wp-block-archives.wp-block-archives-list li a:before,
+ul.wp-block-categories.wp-block-categories-list li a:before{
+	background: $theme_color;
+}
+
+.single_team_page .team-info_wrapper .team-info_svg svg,
+.single_team_page .team-single_wrapper:hover .team-info_wrapper .team-info_svg svg,
+.wgl_module_team.horiz_type .team-item_content:hover .team-info_svg svg{
+	fill: $theme_color;
+}
+
+label,
+legend,
+body .widget_rss ul li .rss-date,
+body .widget .widget-title,
+ul.wgl-products .price,
+.blog-post_meta-categories a, 
+.blog-post_meta-categories span, 
+.woocommerce .products ul.wgl-products .price,
+.blog-post_meta-date .date_post,
+.brainbizz_module_counter .counter_title,
+.brainbizz_module_pricing_plan .pricing_plan_wrap.highlighted .pricing_footer .highlighting_text,
+.brainbizz_module_progress_bar .progress_label, 
+.brainbizz_module_progress_bar .progress_value, 
+.brainbizz_module_progress_bar .progress_units,
+.product_list_widget .product-title,
+.isotope-filter a,
+.heading_subtitle,
+.info_prev-link_wrapper a,
+.info_next-link_wrapper a,
+.widget.widget_wgl_posts .recent-posts-widget li > .recent-posts-content .post_title,
+.wgl-theme-header .woo_mini_cart .woocommerce-mini-cart__total,
+.wgl-theme-header .woo_mini_cart .woocommerce-mini-cart__buttons a,
+.page-header_breadcrumbs .breadcrumbs,
+.product-categories .cat-item .post_count,
+.product_list_widget .woocommerce-Price-amount,
+.single_meta .single_info-share_social-wpapper > span.share_title,
+.single_team_page .team-single_speaches-info .speech-info_day,
+.single_team_page .team-info_wrapper .team-info_item,
+.widget.genesisexpo_widget.genesisexpo_banner-widget .banner-widget_text_sub,
+.wgl_portfolio_item-meta .post_cats,
+.wgl-theme-header .woo_mini_cart .woocommerce-mini-cart__total .woocommerce-Price-amount, 
+.wgl-theme-header .mini-cart .woocommerce-mini-cart.cart_list.product_list_widget li a,
+.woocommerce div.product p.price,
+.woocommerce table.shop_table .woocommerce-Price-amount.amount,
+.single_team_page .team-info_wrapper .team-info_item,
+.portfolio_info_item-info_desc h5,
+.single_info-share_social-wpapper > span,
+.woocommerce .widget_price_filter .price_slider_amount span,
+.woocommerce .widget_shopping_cart .total .woocommerce-Price-amount,
+.woocommerce ul.cart_list li a, 
+.woocommerce ul.product_list_widget li a, 
+.woocommerce.widget_shopping_cart .total .woocommerce-Price-amount,
+.woocommerce .products ul.wgl-products .price,
+.woocommerce-page .cart-collaterals .cart_totals table th,
+ul.wgl-products .woocommerce-loop-product__title,
+.woocommerce .product_meta > span, 
+.woocommerce div.product form.cart .group_table tr td label,
+.woocommerce div.product span.price,
+.woocommerce table.shop_table thead th,
+.checkout.woocommerce-checkout #ship-to-different-address, 
+.checkout.woocommerce-checkout #ship-to-different-address span,
+.woocommerce div.product .woocommerce-tabs .panel table.shop_attributes th,
+.woocommerce .products ul.wgl-products .woocommerce-loop-product__title,
+.woocommerce-cart .cart-collaterals .cart_totals .woocommerce-shipping-totals .woocommerce-shipping-destination{
+	font-family: $subtitle_family;
+}
+
+label,
+body .footer select option,
+blockquote,
+h1,h2,h3,h4,h5,h6,
+h1 span, h2 span, h3 span, h4 span, h5 span, h6 span,
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a,
+h3#reply-title a,
+ul.wgl-pagination li span.current,
+ul.wgl-pagination li a:hover,
+.prev-link-info_wrapper,
+.next-link-info_wrapper,
+.author-info_wrapper .title_soc_share,
+.author-widget_title,
+.blog-post_quote-author,
+.header_search.search_standard .header_search-field .search-form:after,
+.calendar_wrap tbody,
+.comment_author_says,
+.comment_author_says a,
+.single_meta .blog-post_share-wrap > span.share_title,
+.brainbizz_module_counter .counter_title,
+.single_meta .single_info-share_social-wpapper > span.share_title,
+.brainbizz_module_double_headings .heading_title,
+.brainbizz_module_infobox .infobox_button:hover,
+.brainbizz_module_testimonials .testimonials_item .testimonials_content_wrap .testimonials_name,
+.brainbizz_module_testimonials .testimonials_item .testimonials_content_wrap .testimonials_quote,
+.brainbizz_module_progress_bar .progress_label, 
+.brainbizz_module_progress_bar .progress_value, 
+.brainbizz_module_progress_bar .progress_units,
+.tagcloud-wrapper .title_tags,
+.item_title a,
+.single_info-share_social-wpapper > span,
+.product-categories .cat-item a,
+.product-categories a,
+.wgl_module_title.item_title .carousel_arrows a span:after,
+.wgl_module_team.info_under_image .team-department,
+.widget_product_search .woocommerce-product-search:before,
+.widget_search .search-form:after,
+.widget.widget_archive ul li:before,
+.widget.widget_recent_entries ul li:before,
+.widget.widget_meta ul li:before,
+.widget.widget_categories ul li:before,
+.widget.widget_wgl_posts .recent-posts-widget .post_title a,
+.widget.widget_archive ul li, 
+.widget.widget_pages ul li, 
+.widget.widget_meta ul li, 
+.widget.widget_recent_comments ul li, 
+.widget.widget_recent_entries ul li, 
+.widget.widget_nav_menu ul li,
+.widget.widget_categories ul li,
+body .widget .widget-title,
+.wgl-theme-header .woo_mini_cart .woocommerce-mini-cart__buttons a.checkout,
+.wpb-js-composer .vc_row .vc_general.vc_tta-tabs .vc_tta-tabs-list .vc_tta-tab > a,
+.wpb-js-composer .wgl-container .vc_row .vc_general.vc_tta.vc_tta-accordion .vc_tta-panels-container .vc_tta-panel .vc_tta-panel-heading .vc_tta-panel-title,
+.woocommerce .widget_shopping_cart .total strong, .woocommerce.widget_shopping_cart .total strong,
+.woocommerce div.product .woocommerce-tabs .panel #respond #commentform label,
+.woocommerce .widget_price_filter .price_slider_amount,
+.woocommerce div.product .woocommerce-tabs .panel table.shop_attributes th, 
+.woocommerce .cart-collaterals .cart_totals table th, 
+.woocommerce-page .cart-collaterals .cart_totals table th,
+.woocommerce div.product form.cart div.quantity .quantity-wrapper .qty::placeholder,
+.woocommerce .summary .product_meta > span,
+.woocommerce div.product .woocommerce-tabs ul.tabs li,
+.woocommerce div.product form.cart button.button.alt:hover,
+.woocommerce .widget_shopping_cart .buttons a.checkout, 
+.woocommerce.widget_shopping_cart .buttons a.checkout,
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active,
+.woocommerce ul.cart_list li a, 
+.woocommerce table.shop_table td.product-name,
+.woocommerce table.shop_table thead th,
+.woocommerce ul.product_list_widget li a,
+.woocommerce-tabs .comment-reply-title,
+.woocommerce form .form-row label,
+.woocommerce table.shop_table tfoot tr th,
+.woocommerce ul#shipping_method li label,
+.woocommerce form .form-row .select2-container--default .select2-selection--single .select2-selection__rendered,
+.wgl_timetabs .timetabs_headings .wgl_tab.active .tab_title,
+.wgl_timetabs .timetabs_headings .wgl_tab:hover .tab_title,
+.isotope-filter a:hover,
+.isotope-filter a.active,
+.woocommerce-cart .cart-collaterals .cart_totals .woocommerce-shipping-totals .woocommerce-shipping-destination,
+ul.wp-block-archives.wp-block-archives-list li a,
+ul.wp-block-categories.wp-block-categories-list li a,
+ul.wp-block-latest-posts li a{
+	color: $header_font_color;
+}
+
+input::-webkit-input-placeholder,
+textarea::-webkit-input-placeholder,
+input:-moz-placeholder,
+textarea:-moz-placeholder,
+input::-moz-placeholder,
+textarea::-moz-placeholder,
+input:-ms-input-placeholder,
+textarea:-ms-input-placeholder{
+	color: $header_font_color;
+}
+
+::selection,
+#comments > h3:after,
+#sb_instagram .sbi_photo:before,
+aside > .widget + .widget:before,
+button:hover,
+input[type="submit"],
+mark,
+span.highlighter,
+.author-widget_social,
+.blog-post_cats span a,
+.calendar_wrap caption,
+.comment-reply-title:after,
+.brainbizz_banner-widget .banner-widget_button,
+.brainbizz_divider .brainbizz_divider_line .brainbizz_divider_custom .divider_line,
+.brainbizz_module_cats .cats_item-count,
+.brainbizz_module_double_headings .heading_subtitle:after,
+.brainbizz_module_double_headings .heading_subtitle:before,
+.brainbizz_module_progress_bar .progress_bar,
+.brainbizz_module_progress_bar .progress_label_wrap:before,
+.brainbizz_module_infobox.type_tile:hover:before,
+.brainbizz_module_social.with_bg .soc_icon,
+.brainbizz_module_pricing_plan .pricing_plan_wrap.highlighted .pricing_header,
+.brainbizz_module_title:after,
+.brainbizz_module_title .carousel_arrows a:hover span,
+.brainbizz_module_videobox .videobox_link,
+.load_more_works,
+.mc_form_inside #mc_signup_submit,
+.vc_wp_custommenu .menu .menu-item a:before,
+.primary-nav > ul > li > a span:before,
+.primary-nav ul li ul li > a span:before,
+.primary-nav ul li ul li > a:before,
+.primary-nav ul li.mega-menu.mega-cat div.mega-menu-container ul.mega-menu.cats-horizontal > li.is-active > a,
+.primary-nav ul li.mega-menu-links > ul > li > a:before,
+.primary-nav ul li.menu-item.current-menu-ancestor > a > span:after,
+.primary-nav ul li.menu-item.current-menu-item > a > span:after,
+.wpml-ls-legacy-dropdown .wpml-ls-sub-menu .wpml-ls-item a:before,
+.wgl_module_title.item_title .carousel_arrows a:hover,
+.wgl-pagination .page .current,
+.wgl-pagination .page a:hover,
+.wgl-theme-header .woo_mini-count span,
+.wgl_timetabs .timetabs_headings .wgl_tab.active:after,
+.widget .calendar_wrap table td#today:before,
+.widget .calendar_wrap tbody td > a:before,
+.widget .calendar_wrap table td#today:before,
+.widget .counter_posts,
+.widget.widget_pages ul li a:before,
+.widget.widget_nav_menu ul li a:before,
+.widget_nav_menu .menu .menu-item:before,
+.widget_postshero .recent-posts-widget .post_cat a,
+.widget_categories ul li > a:before, 
+.widget_meta ul li > a:before, 
+.widget_archive ul li > a:before,
+.tagcloud a:hover,
+.product-categories .cat-item a:before,
+.woocommerce #respond input#submit.disabled:hover, 
+.woocommerce #respond input#submit:disabled:hover, 
+.woocommerce #respond input#submit:disabled[disabled]:hover, 
+.woocommerce a.button:hover, 
+.woocommerce a.button.disabled:hover, 
+.woocommerce a.button:disabled:hover, 
+.woocommerce a.button:disabled[disabled]:hover, 
+.woocommerce button.button:disabled:hover, 
+.woocommerce button.button:disabled[disabled]:hover, 
+.woocommerce button.button:hover,
+.woocommerce button.button.disabled:hover, 
+.woocommerce input.button:hover,
+.woocommerce input.button:disabled:hover, 
+.woocommerce input.button:disabled[disabled]:hover,
+.woocommerce input.button.disabled:hover, 
+.woocommerce nav.woocommerce-pagination ul li a:hover, 
+.woocommerce nav.woocommerce-pagination ul li a:focus, 
+.woocommerce nav.woocommerce-pagination ul li a.current, 
+.woocommerce nav.woocommerce-pagination ul li span.current,
+.woocommerce .widget_price_filter .price_slider_wrapper .ui-widget-content,
+.woocommerce .widget_price_filter .price_slider_amount .button,
+.woocommerce .widget_shopping_cart .buttons a.checkout:hover, 
+.woocommerce.widget_shopping_cart .buttons a.checkout:hover,
+.woocommerce-cart .wc-proceed-to-checkout a.checkout-button:hover,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
+.woo_product_image .picture:hover a.add_to_cart_button:hover, .woo_product_image .picture:hover a.button:hover,
+.woo_product_image .added_to_cart.wc-forward:hover{
+	background-color: $theme_color;
+}
+
+#add_payment_method .wc-proceed-to-checkout a.checkout-button,
+.blog-post_meta-date,
+.blog-post_cats span a,
+.brainbizz_404_button.brainbizz_module_button a,
+.brainbizz_module_carousel.navigation_offset_element .slick-prev:hover,
+.brainbizz_module_carousel.navigation_offset_element .slick-next:hover,
+.brainbizz_module_demo_item .di_button a,
+.cats_post a,
+.load_more_item,
+.next-link:hover,
+.prev-link:hover,
+.single-product div.product .woocommerce-product-gallery .woocommerce-product-gallery__trigger:hover,
+.wgl-theme-header .woo_mini_cart .woocommerce-mini-cart__buttons a.checkout:hover,
+.woocommerce table.shop_table.cart input.button,
+.woocommerce .widget_price_filter .price_slider_amount .button,
+.woocommerce .widget_shopping_cart .buttons a.checkout:hover,
+.woocommerce-cart .wc-proceed-to-checkout a.checkout-button:hover,
+.woocommerce-checkout .wc-proceed-to-checkout a.checkout-button:hover,
+.woocommerce #respond input#submit{
+	border-color: $theme_color;
+	background: $theme_color;
+} 
+
+button,
+input[type="submit"],
+.banner-widget_button,
+.brainbizz_module_button a:hover,
+.brainbizz_module_carousel.pagination_circle_border .slick-dots li button,
+.brainbizz_module_cats .brainbizz_module_carousel .slick-next:hover, 
+.brainbizz_module_cats .brainbizz_module_carousel .slick-prev:hover,
+.brainbizz_module_testimonials .testimonials_item .testimonials_item_wrap .testimonials_content_wrap,
+.brainbizz_module_title .carousel_arrows a:hover span:before,
+.wgl-theme-header .woo_mini_cart .woocommerce-mini-cart__buttons a.checkout,
+.load_more_item:hover,
+.load_more_works,
+.wpb-js-composer .wgl-container .vc_row .vc_general.vc_tta.vc_tta-tabs .vc_tta-tabs-container .vc_tta-tab.vc_active > a,
+.wpb-js-composer .wgl-container .vc_row .vc_general.vc_tta.vc_tta-tabs .vc_tta-panels-container .vc_tta-panel.vc_active .vc_tta-panel-heading .vc_tta-panel-title a,
+.wpb-js-composer .wgl-container .vc_row .vc_general.vc_tta.vc_tta-tabs .vc_tta-panels-container .vc_tta-panel .vc_tta-panel-heading .vc_tta-panel-title:hover a,
+.woocommerce #respond input#submit:disabled,
+.woocommerce #respond input#submit:disabled[disabled],
+.woocommerce #respond input#submit.disabled,
+.woocommerce a.button:disabled,
+.woocommerce a.button:disabled[disabled],
+.woocommerce a.button.disabled,
+.woocommerce button.button.alt,
+.woocommerce button.button:disabled,
+.woocommerce button.button:disabled[disabled],
+.woocommerce button.button.disabled,
+.woocommerce input.button:disabled,
+.woocommerce input.button:disabled[disabled],
+.woocommerce input.button.disabled,
+.woocommerce-cart .wc-proceed-to-checkout a.checkout-button:hover{
+	border-color: $theme_color;
+}
+
+/* menu fonts */
+
+.primary-nav>div>ul,
+.primary-nav>ul,
+.primary-nav ul li.mega-menu-links > ul > li{
+	font-family: $menu_font_family;
+	font-weight: $menu_font_weight;
+	line-height: $menu_font_line_height;
+	font-size: $menu_font_size;
+}
+
+.brainbizz_module_pricing_plan .pricing_header .pricing_title{
+	font-family: $menu_font_family;
+}
+
+/* sub menu fonts */
+.primary-nav ul li ul, 
+.wpml-ls,
+.primary-nav ul li div.mega-menu-container{
+	font-family: $sub_menu_font_family;
+	font-weight: $sub_menu_font_weight;
+	line-height: $sub_menu_font_line_height;
+	font-size: $sub_menu_font_size;	
+}
+
+/* sub menu styles */
+.wgl-theme-header .header_search-field,
+.primary-nav ul li ul,
+.primary-nav ul li div.mega-menu-container,
+.wgl-theme-header .woo_mini_cart,
+.wpml-ls-legacy-dropdown .wpml-ls-current-language .wpml-ls-sub-menu{
+	background-color: $sub_menu_bg;
+	color: $sub_menu_color;
+}
+
+.wgl-header-row-section_top .primary-nav .lavalamp-object{
+	background-color: $menu_color_top;
+}
+.wgl-header-row-section_middle .primary-nav .lavalamp-object{
+	background-color: $menu_color_middle;
+}
+.wgl-header-row-section_bottom .primary-nav .lavalamp-object{
+	background-color: $menu_color_bottom;
+}
+
+.wgl-sticky-header .wgl-header-row .primary-nav .lavalamp-object{
+	background-color: $header_sticky_color;
+}
+
+.mobile_nav_wrapper,
+.wgl-menu_outer,
+.mobile_nav_wrapper .primary-nav ul li ul.sub-menu,
+.mobile_nav_wrapper .primary-nav ul li.mega-menu-links > ul.mega-menu > li > ul > li ul,
+.mobile_nav_wrapper .primary-nav ul li.mega-menu-links > ul.mega-menu > li > ul{
+	background-color: $mobile_sub_menu_bg;
+	color: $mobile_sub_menu_color;		
+}
+
+ul.wgl-pagination li a,
+ul.wgl-pagination li span,
+.blog-post.format-quote .blog-post_quote-author-pos,
+.brainbizz_module_testimonials .testimonials_quote,
+.brainbizz_module_pricing_plan .pricing_header .pricing_desc,
+.recent-posts-widget .meta-wrapper a:hover,
+.tagcloud a,
+#comments .comment-reply-link:hover:after,
+.button-read-more:hover:after,
+#comments .comment-reply-link:hover,
+body input::placeholder,
+body textarea::placeholder,
+.vc_row .vc_toggle .vc_toggle_icon,
+.woocommerce .woocommerce-result-count,
+.woocommerce-page .woocommerce-result-count,
+.woocommerce .woocommerce-ordering select,
+.woocommerce .summary .product_meta > span span, 
+.woocommerce .summary .product_meta > span a,
+.woocommerce nav.woocommerce-pagination ul li a,
+.woocommerce div.product form.cart div.quantity .qty,
+.woocommerce-error, .woocommerce-info, .woocommerce-message{
+	color: $content_color;
+}
+.brainbizz_module_carousel .slick-prev:after, 
+.brainbizz_module_carousel .slick-next:after{
+	border-color: $content_color;
+}
+
+.header_search .header_search-button > i:hover,
+.isotope-filter.filter_with_bg a:hover,
+.isotope-filter.filter_with_bg a.active,
+.load_more_works:hover,
+.load_more_item:hover,
+.mc_form_inside #mc_signup_submit:hover,
+.meta-wrapper span:after,
+.meta-wrapper > span:before,
+.meta-wrapper a:hover,
+.product-categories .cat-item .post_count,
+.product_list_widget .woocommerce-Price-amount,
+.product_list_widget .product-title:hover,
+.product_list_widget li:hover .product-title,
+.product-categories a:hover,
+.product-categories .current-cat a,
+.product_meta > span a:hover,
+.primary-nav ul li ul .menu-item.current-menu-item > a,
+.primary-nav ul li ul .menu-item.current-menu-item > a, 
+.primary-nav ul ul li.menu-item.current-menu-ancestor > a, 
+.primary-nav ul ul li.menu-item.current-menu-item > a,
+.primary-nav ul li ul .menu-item.back:hover:before,
+.primary-nav ul li ul .menu-item.back:hover > a,
+.primary-nav ul li ul .menu-item:hover > a,
+.primary-nav > ul:not(.lavalamp) > li.current-menu-item > a,
+.primary-nav > ul:not(.lavalamp) > li.current-menu-ancestor > a,
+.primary-nav > ul:not(.lavalamp) > li:hover > a,
+.recent-posts-widget .meta-wrapper a,
+.single_team_page .team-info_wrapper .team-info_item a:hover,
+.single-member-page .member-icon:hover,
+.single-member-page .team-link:hover,
+.single_team_page .team-single_speaches-info .speech-info_day,
+.team-icons .member-icon:hover,
+.vc_row .vc_toggle.vc_toggle_active .vc_toggle_icon,
+.vc_row .vc_toggle.vc_toggle_active .vc_toggle_title i,
+.vc_wp_custommenu .menu .menu-item.current-menu-ancestor > a,
+.vc_wp_custommenu .menu .menu-item.current-menu-item > a,
+.wgl_portfolio_category-wrapper a:hover,
+.wgl-theme-header .wrapper .brainbizz_module_button a:hover,
+.wgl-theme-header .mini-cart .woocommerce-mini-cart.cart_list.product_list_widget li a:hover,
+.wgl_module_team .team-item_content .team-icon:hover,
+.wgl_module_team .team-item_info .team-item_titles .team-title:hover,
+.wgl-icon:hover,
+.wgl-theme-color,
+.widget.brainbizz_widget.brainbizz_banner-widget .banner-widget_button:hover,
+.widget.widget_recent_comments ul li a,
+.widget.widget_recent_entries ul li:before,
+.widget.widget_archive ul li a:hover,
+.widget.widget_categories ul li a:hover,
+.widget.widget_pages ul li a:hover,
+.widget.widget_meta ul li a:hover,
+.widget.widget_recent_comments ul li a:hover,
+.widget.widget_recent_entries ul li a:hover,
+.widget.widget_nav_menu ul li a:hover,
+.widget.widget_wgl_posts .recent-posts-widget li > .recent-posts-content .post_title a:hover,
+.woocommerce div.product form.cart .reset_variations:before,
+.woocommerce div.product p.price, .woocommerce div.product span.price,
+.woocommerce form .form-row .required,
+.woocommerce table.shop_table .woocommerce-Price-amount.amount,
+.woocommerce table.shop_table .order-total .woocommerce-Price-amount.amount,
+.woocommerce table.shop_table td.product-name a:hover,
+.woocommerce table.shop_table.cart input.button:hover,
+.woocommerce p.stars a,
+.woocommerce ul.cart_list li a:hover, .woocommerce ul.product_list_widget li a:hover,
+.woocommerce .widget_price_filter .price_slider_amount span,
+.woocommerce #respond input#submit:hover,
+.woocommerce-cart .wc-proceed-to-checkout a.checkout-button:hover,
+.woocommerce-review-link:hover,
+.woocommerce .widget_price_filter .price_slider_amount .button:hover,
+.woocommerce .summary .product_meta > span a:hover,
+.woocommerce #payment #place_order:hover, 
+.woocommerce-page #payment #place_order:hover,
+.woocommerce .cart .button:hover,
+.woocommerce .cart input.button:hover,
+.woocommerce-message a.button:hover,
+.wpb-js-composer .vc_row .vc_tta.vc_general .vc_active .vc_tta-panel-title > a:before,
+.wpml-ls a:hover,
+.wpml-ls-legacy-dropdown .wpml-ls-current-language:hover > a,
+.wpml-ls-legacy-dropdown .wpml-ls-current-language a:hover,
+.single_team_page .team-info_icons a:hover,
+.wgl_portfolio_item-meta .post_cats a:hover,
+.under_image .wgl_portfolio_item-title .title:hover,
+.dropcap{
+	color: $theme_color;
+}
+
+.hover_links a:hover,
+header .header-link:hover{
+	color: $theme_color !important;
+}	
+
+.wgl-mailchimp-2 #mc_embed_signup .button-submit input,
+.footer .mc4wp-form-fields input[type="submit"]{
+	box-shadow: 0px 0px 0px 0px $theme_color;
+}
+.wgl-mailchimp-2 #mc_embed_signup .button-submit input:hover,
+.footer .mc4wp-form-fields input[type="submit"]:hover{
+	box-shadow: 0px 0px 0px 5px $theme_color;
+}
+
+.brainbizz_module_title .carousel_arrows a span {
+	background: $header_font_color;
+}
+.brainbizz_module_title .carousel_arrows a span:before {
+	border-color: $header_font_color;
+}
+
+.brainbizz_module_title .external_link .button-read-more {
+	line-height: $content_line_height;
+}
+
+.wgl-theme-header .wgl-sticky-header .header_search{
+	height: $header_sticky_height !important;
+}    
+
+.woocommerce form .form-row .select2-container--default .select2-selection--single .select2-selection__arrow b{
+	border-color: $header_font_color transparent transparent transparent;
+}
+
+.wgl-theme-header .header_search .header_search-field:after{
+	border-bottom-color: rgba($hex_theme_color, 0.9);
+}
+.author-widget_social,
+.brainbizz_module_demo_item .di_button a{
+	box-shadow: 0px 11px 29px 0px rgba($hex_theme_color, 0.45);
+}
+.theme_color_shadow{
+	box-shadow: 0px 11px 38px 0px rgba($hex_theme_color, 0.45);
+}
+
+.post_featured_bg .blog-post_bg_media:before{
+	background-color: rgba($hex_page_title_bg_color, 0.5);
+}
+
+.footer_top-area .widget-title,
+.footer_top-area .widget-title .rsswidget,
+.footer_top-area .widget.widget_pages ul li a, 
+.footer_top-area .widget.widget_nav_menu ul li a,
+.footer_top-area .widget.widget_wgl_posts .recent-posts-widget li > .recent-posts-content .post_title a,
+.footer_top-area .widget.widget_archive ul li > a,
+.footer_top-area .widget.widget_categories ul li > a,
+.footer_top-area .widget.widget_pages ul li > a,
+.footer_top-area .widget.widget_meta ul li > a,
+.footer_top-area .widget.widget_recent_comments ul li > a,
+.footer_top-area .widget.widget_recent_entries ul li > a,
+.footer_top-area .widget.widget_archive ul li:before,
+.footer_top-area .widget.widget_meta ul li:before,
+.footer_top-area .widget.widget_categories ul li:before,
+.footer_top-area strong,
+.footer_top-area h1,
+.footer_top-area h2,
+.footer_top-area h3,
+.footer_top-area h4,
+.footer_top-area h5,
+.footer_top-area h6{
+	color: $footer_heading_color;
+}
+.footer_top-area{
+	color: $footer_text_color;
+}
+.footer_top-area .widget.widget_archive ul li:after,
+.footer_top-area .widget.widget_pages ul li:after,
+.footer_top-area .widget.widget_meta ul li:after,
+.footer_top-area .widget.widget_recent_comments ul li:after,
+.footer_top-area .widget.widget_recent_entries ul li:after,
+.footer_top-area .widget.widget_nav_menu ul li:after,
+.footer_top-area .widget.widget_categories ul li:after{
+	background-color: $footer_text_color;
+}
+
+.footer .copyright{
+	color: $copyright_text_color;
+}
+#scroll_up {
+	background-color: $scroll_up_bg_color;
+	color: $scroll_up_arrow_color;
+}

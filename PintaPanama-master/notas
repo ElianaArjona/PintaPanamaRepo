@@ -1,0 +1,28 @@
+
+Tareas faltantes:
+
+---------------------------------------------------------------------------------------------------
+
+- Crear plugin para poder filtrar los abogados por categoría y áreas de trabajo antes de poder cargar todos los datos.
+
+- En la pagina de Areas of Practices, los filtros que vienen por defecto en la platilla solo despliegan los tiles que se encuentran en pantalla y es necesario usar el botón Load More para ver todos. REVISAR.
+
+- Instalar plugin y API del mapa en la pagina de Contact.
+
+- Cargar contenido de las demás Areas of Practices (solo esta cargada Administrative Law).
+
+- Cargar contenido de los abogados luego de resuelto el tema de filtros.
+
+- Traducción del sitio a español.
+
+- Consultar con el cliente si desea cargar las mismas noticias que se encuentra en el sitio anterior.
+
+- Integrar al sitio los servicios en linea que ofrece el cliente.
+
+---------------------------------------------------------------------------------------------------
+
+26 de agosto 2019
+
+Christian
+
+
